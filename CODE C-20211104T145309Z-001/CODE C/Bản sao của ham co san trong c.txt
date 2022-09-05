@@ -1,0 +1,38 @@
+\n : Nhảy xuống dòng kế tiếp canh về cột đầu tiên
+\t : Canh cột tab ngang.
+\r : Nhảy về đầu hàng, không xuống hàng.
+\a : Tiếng kêu bip.
+\\ : In ra dấu \
+\" : In ra dấu "
+\' : In ra dấu '
+%%: In ra dấu %
+\b ~ backspace (xóa 1 ký tự ngay trước)
+========================================================
+
+#include<math.h>
+hàm có sẵn 
+a, b: tham số;
+exp(a): hàm tính e mũ x;
+log(a): hàm logarit ln hay còn gọi là logarit cơ số e;
+pow(a,b): hàm a mũ b;
+sqrt(a): hàm tính căn bậc 2;
+abs(a): giá trị tuyệt đối của số nguyên;
+fabs(a): giá trị tuyệt đối của số thực;
+
+#include<string.h>
+ham co san
+str1, str2 là 2 chuỗi
+strcmp(str1,str2) hàm so sánh chuỗi
+Nếu hàm strcmp(str1,str2) mà trả về 0 thì 2 chuỗi bằng nhau. lớn hơn không thì str1>str2 và nhỏ hơn 0 thì ngược lại.
+
+strlen(str1): trả về độ dài của chuỗi;
+strcpy(str1,str2): hàm sap chép chuỗi kí tự từ str2 sang str1;
+
+strcat(str1,str2): để nối 2 chuỗi;
+strrev(str1): để đảo ngược chuỗi;
+strlwr(str1): trả về chuỗi chữ thường;
+strupr(str1): trả về chữ in hoa;
+
+strstr():Hàm strstr() trong C trả về con trỏ trỏ đến lần xuất hiện đầu tiên của chuỗi được khớp trong chuỗi đã cho. Nó được sử dụng để trả lại chuỗi con từ vị trí khớp đầu tiên cho đến lần khớp cuối cùng.
+cú pháp: char *strstr(const char *string, const char *match)
+

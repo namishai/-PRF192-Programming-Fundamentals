@@ -1,0 +1,4 @@
+Pairs of Boots;5;100
+Coats;6;50
+Hats;7;70
+Pairs of Gloves;9;20

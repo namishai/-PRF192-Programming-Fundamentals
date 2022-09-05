@@ -1,0 +1,40 @@
+ENG;7;Wolverhampton Wanderers;10;1;16
+ENG;8;Brighton & Hove Albion;10;0;16
+ENG;9;Tottenham Hotspur;10;-7;15
+ENG;10;Everton;10;0;14
+ENG;11;Leicester City;10;-2;14
+ENG;12;Brentford;10;0;12
+ENG;1;Chelsea;10;23;25
+ENG;2;Liverpool;10;21;22
+ENG;3;Manchester City;10;14;20
+ENG;4;West Ham United;10;9;20
+ENG;5;Manchester United;10;4;17
+ENG;6;Arsenal;10;-1;17
+ENG;13;Crystal Palace;10;-1;12
+ENG;14;Southampton;10;-3;11
+ENG;15;Aston Villa;10;-5;10
+ENG;16;Watford;10;-6;10
+ENG;19;Newcastle United;10;-12;4
+ENG;20;Norwich City;10;-22;2
+ENG;17;Leeds United;10;-7;10
+ENG;18;Burnley;10;-6;7
+SPN;13;Villarreal;11;1;12
+SPN;10;Valencia;12;1;16
+SPN;3;Sevilla;11;12;24
+SPN;1;Real Sociedad;12;7;25
+SPN;2;Real Madrid;11;14;24
+SPN;5;Real Betis;12;4;21
+SPN;6;Rayo Vallecano;12;6;20
+SPN;7;Osasuna;12;-1;19
+SPN;12;Mallorca;12;-6;14
+SPN;19;Levante;12;-12;6
+SPN;14;Granada;11;-3;11
+SPN;20;Getafe;12;-12;6
+SPN;11;Espanyol;12;-1;14
+SPN;16;Elche;12;-6;10
+SPN;17;Deportivo Alaves;11;-8;10
+SPN;15;Celta Vigo;12;-4;11
+SPN;18;Cadiz;12;-8;9
+SPN;9;Barcelona;11;4;16
+SPN;4;Atletico Madrid;11;8;22
+SPN;8;Athletic Bilbao;11;4;18

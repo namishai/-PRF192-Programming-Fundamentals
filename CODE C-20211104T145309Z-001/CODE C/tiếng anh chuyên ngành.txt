@@ -1,0 +1,379 @@
+plus: dương
+
+Minus: âm
+
+times hoặc multiplied by: lần
+
+divided by: chia
+
+squared: bình phương
+
+cubed: mũ ba/lũy thừa ba
+
+square root: căn bình phương
+
+equals: bằng
+
+problem: bài toán
+
+solution: lời giải
+
+formula: công thức
+
+equation: phương trình
+
+
+average: trung bình
+
+correlation: sự tương quan
+
+probability: xác suất
+
+dimensions: chiều
+
+area: diện tích
+
+circumference: chu vi đường tròn
+
+diameter: đường kính
+
+radius: bán kính
+
+length: chiều dài
+
+height: chiều cao
+
+width: chiều rộng
+
+perimeter: chu vi
+
+angle: góc
+
+right angle: góc vuông
+
+line: đường
+
+straight line: đường thẳng
+
+curve: đường cong
+
+parallel: song song
+
+tangent: tiếp tuyến
+
+volume: thể tích
+
+Index form  : dạng số mũ
+
+Evaluate : ước tính
+
+Simplify : đơn giản
+
+Express : biểu diễn, biểu thị
+
+Solve : giải
+
+Positive : dương
+
+Negative : âm
+
+Equation : phương trình, đẳng thức
+
+Equality : đẳng thức
+
+Quadratic equation : phương trình bậc hai
+
+Root : nghiệm của phương trình
+
+Linear equation (first degree equation) : phương trình bậc nhất
+
+Formulae : công thức
+
+Algebraic expression : biểu thức đại số
+
+tieng anh chuyen nganh toan hoc
+
+(Thuật ngữ tiếng anh chuyên ngành toán học về phân số)
+
+Từ vựng và thuật ngữ tiếng anh chuyên ngành toán học về phân số :
+
+Fraction : phân số
+
+vulgar fraction : phân số thường
+
+decimal fraction : phân số thập phân
+
+Single fraction : phân số đơn
+
+Simplified fraction : phân số tối giản
+
+Lowest term : phân số tối giản
+
+Significant figures : chữ số có nghĩa
+
+Decimal place : vị trí thập phân, chữ số thập phân
+
+Subject : chủ thể, đối tượng
+
+Perimeter : chu vi
+
+Area : diện tích
+
+Volume : thể tích
+
+Quadrilateral : tứ giác
+
+Parallelogram : hình bình hành
+
+Intersection : giao điểm
+
+Từ vựng và thuật ngữ tiếng anh chuyên ngành toán học về tọa độ :
+
+Origin : gốc toạ độ
+
+Diagram : biểu đồ, đồ thị, sơ đồ
+
+Parallel : song song
+
+Symmetry : đối xứng
+
+Trapezium : hình thang
+
+Vertex : đỉnh
+
+Vertices : các đỉnh
+
+Triangle : tam giác
+
+Isosceles triangle : tam giác cân
+
+acute triangle : tam giác nhọn
+
+circumscribed triangle : tam giác ngoại tiếp
+
+equiangular triangle : tam giác đều
+
+inscribed triangle : tam giác nội tiếp
+
+obtuse triangle : tam giác tù
+
+right-angled triangle : tam giác vuông
+
+scalene triangle : tam giác thường
+
+Midpoint : trung điểm
+
+Gradient of the straight line : độ dốc của một đường thẳng, hệ số góc
+
+Distance : khoảng cách
+
+Rectangle : hình chữ nhật
+
+Trigonometry : lượng giác học
+
+The sine rule : quy tắc sin
+
+
+The cosine rule : quy tắc cos
+
+Cross-section : mặt cắt ngang
+
+Từ vựng và thuật ngữ tiếng anh chuyên ngành toán học về một số hình khối :
+
+Cuboid : hình hộp phẳng, hình hộp thẳng
+
+Pyramid : hình chóp
+
+regular pyramid : hình chóp đều
+
+triangular pyramid : hình chóp tam giác
+
+truncated pyramid : hình chóp cụt
+
+Slant edge : cạnh bên
+
+Diagonal : đường chéo
+
+Inequality : bất phương trình
+
+Rounding off : làm tròn
+
+Rate : hệ số
+
+Coefficient : hệ số
+
+Scale : thang đo
+
+Kinematics : động học
+
+Displacement : độ dịch chuyển
+
+Speed : tốc độ
+
+Velocity : vận tốc
+
+major arc : cung lớn
+
+minor arc : cung nhỏ
+
+retardation : sự giảm tốc, sự hãm
+
+acceleration : gia tốc
+
+Từ vựng và thuật ngữ tiếng anh chuyên ngành toán học về số học :
+
+Integer number : số nguyên
+
+Real number : số thực
+
+Least value : giá trị bé nhất
+
+Greatest value : giá trị lớn nhất
+
+prime number : số nguyên tố
+
+stated : đươc phát biểu, được trình bày
+
+density : mật độ
+
+maximum : giá trị cực đại
+
+Minimum : giá trị cực tiểu
+
+varies directly as : tỷ lệ thuận 
+
+directly proportional to : tỷ lệ thuận với
+
+inversely proportional : tỷ lệ nghịch
+
+varies as the reciprocal : nghịch đảo
+
+in term of : theo ngôn ngữ, theo
+
+base of a cone : đáy của hình nón
+
+transformation : biến đổi
+
+reflection : phản chiếu, ảnh
+
+anticlockwise rotation : sự quay ngược chiều kim đồng hồ
+
+clockwise rotation : sự quay theo chiều kim đồng hồ
+
+- Character: Ký tự
+- Digits: Chữ số
+- Expression: Biểu thức (VD: a+b)
+- Operand: Toán hạng
+- Operator: Toán tử
+- Function: Hàm
+- Parameter: Tham số
+- Argument: Đối số (Có ai k phân biệt dc 2 cái này k ^^)
+- Value: Giá trị
+- Syntax: Cú pháp (Syntax Error: Lỗi cú pháp)
+- Function Call: Lời gọi hàm
+- Prototype: Nguyên mẫu hàm
+- Comment: Ghi chú, chú thích
+- Code block: Khối lệnh
+- Selection: (Cấu trúc) Chọn lựa, rẽ nhánh (VD: if-else, switch)
+- Condition: Điều kiện 
+
+- Unary: (Toán tử) một ngôi
+- Binary: (Toán tử) hai ngôi
+
+- Assigment: toán tử gán (a=5)
+- Addition: toán tử cộng (a+b)
+- Subtraction: toán tử trừ (a-b)
+- Unary plus: toán tử cộng (dương) một ngôi: (+a) 
+- Unary mimus: toán tử trừ (âm) một ngôi: (-a)
+- Multiplication: toán tử nhân (a*b)
+- Division: toán tử chia (a/b)
+- Modulo / Remainder: toán tử chia lấy dư (%)
+- Prefix Increment: Toán tử tăng biến lên 1 đơn vị (++a), tăng trước
+- Suffix/Postfix Increment: Toán tử tăng biến 1 đơn vị (a++), tăng sau
+- Prefix Decrement: Toán tử giảm biến đi 1 đơn vị (--a) , giảm trước
+- Suffix/Postfix Decrement: Toán tử giảm biến đi 1 đơn vị (--a) , giảm sau
+
+- Equal to: Toán tử so sánh bằng (a==b)
+- Not Equal To: Toán tử khác, không bằng (a!=b)
+- Greater Than: Toán tử lớn hơn (a>b)
+- Less Than: Toán tử nhỏ hơn (a<b)
+- Greater Than or Equal To: Toán tử lớn hơn hoặc bằng (a>=b)
+- Less Than or Equal To: Toán tử nhỏ hơn hoặc bằng (a<=b)
+
+- Addition assigment: toán tử Cộng bằng (a+=b)
+- Subtraction assigment: toán tử trừ bằng (a-=b)
+- Multipication assigment: Toán tử nhân bằng (a*=b)
+- Division assigmetn: Toán tử chia bằng (a/=b)
+- Modulo assigment: Chia lấy dư bằng (a%=b);
+
+- Array subscript: Toán tử hai ngoặc vuông [] trong array (a[3])
+- Indirection: Toán tử lấy giá trị của con trỏ (*a);
+- Reference: Toán tử lấy địa chỉ, tham chiếu (&a);
+
+- Sorting: Sắp xếp
+- Quick Sort: Sắp xếp nhanh
+- Merge Sort: Sắp xếp trộn
+- Radix Sort: Sắp xếp theo cơ số
+- Buble Sort: Sắp xếp nổi bọt
+- Selection Sort: Sắp xếp kiểu chèn
+- Heap Sort: Sắp xếp kiểu vun đống
+
+- Searching: Tìm kiếm
+- Linear Search: Tìm kiếm tuyến tính
+- Binary Search: Tìm kiếm nhị phân
+
+- Greedy algorithm: Thuật toán tham lam
+
+- Base: Hệ cơ số
+- Hexadecimal (Hex): Hệ cơ số mười sáu
+- Binary (Bin): Hệ nhị phân
+- Octal: Hệ cơ số tám
+
+- Variable: Biến
+- Constant: Hằng
+- Integer: Kiểu số nguyên
+- Floating-point: Kiểu dấu chấm động (Số thực)
+- Real / Double: Kiểu số thực
+- Possitive number: Số Dương
+- Negative number: Số Âm
+
+required: cần thiết
+allow: cho phép
+positive integer: số nguyên dương
+solution, root: nghiệm
+speed: vận tốc
+circumscribed: ngoại tiếp  
+median: trung tuyến
+Perimeter: chu vi 
+area: diện tích
+caculate: tính toán
+edge: cạnh
+filled: lắp đầy
+vowel: nguyên âm ( a , e , o , i , u)
+consonant: phụ âm ( b , c , d , f , g , h , j , k , l , m , n , p , q , r , s , t , v , w , x , y , z )
+adjacent: liền kề
+odd number: số lẻ
+even number: sỗ chẵn
+frequency: tần số
+prime: số nguyên tố
+representation: đại diện
+reverse number: số đảo ngược
+resultant number: số kết quả
+element: thành phần
+distinct: khác biệt
+appeared: xuất hiện
+exclusive: độc quyền
+ascending: tăng dần
+decrease: giảm dần
+increase: tăng
+reduction: giảm
+remove: loại bỏ
+standardized: chuẩn hóa
+redundant: thừa
+flower print: in hoa
+normal printing: in thường
+uppercase: chữ hoa
+lowercase letters: chữ viết thường
+
+
+
